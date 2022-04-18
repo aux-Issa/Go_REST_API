@@ -8,15 +8,6 @@ import (
 	"github.com/gorilla/mux"
 )
 
-// import (
-// 	"encoding/json"
-// 	"log"
-// 	"net/http"
-// 	"math/read"
-// 	"str"
-// 	"github.com/gorilla/mux"
-// )
-
 // Book Struc (Model)
 type Book struct {
 	ID     string  `json:"id"`
